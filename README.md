@@ -1,6 +1,6 @@
 # FacDNet
 
-Our code will be released soon.
+Our code will be released soon, which will be made fully open upon article acceptance.
 
 <img width="1192" height="917" alt="image" src="https://github.com/user-attachments/assets/70fe4ec9-0cfc-4de3-9ac0-97b555b55724" />
 
